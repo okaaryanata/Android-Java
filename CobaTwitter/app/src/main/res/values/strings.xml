@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CobaTwitter</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="fullname">Fullname</string>
+    <string name="email">Email</string>
+    <string name="refresh">Refresh</string>
+    <string name="add_tweet">Add Tweet</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="new_tweet">New Tweet</string>
+    <string name="btn_like">like</string>
+    <string name="change_profile_picture">Change profile picture</string>
+    <string name="signout">Sign Out</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Twitter</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="link_signup">signup</string>
+    <string name="fullname">Fullname</string>
+    <string name="email">Email</string>
+    <string name="signup">Sign Up</string>
+    <string name="link_login">login</string>
+    <string name="btn_like">Like</string>
+    <string name="add_tweet">add tweet</string>
+    <string name="refresh">refresh</string>
+    <string name="new_tweet">New Tweet</string>
+    <string name="home">home</string>
+    <string name="profile">profile</string>
+</resources>

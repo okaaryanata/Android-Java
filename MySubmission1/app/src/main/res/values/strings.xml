@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">MySubmission1</string>
+    <string name="movie_title">Judul Movie</string>
+    <string name="lorem">lorem lorem</string>
+    <string name="exp">EXP</string>
+    <string name="rating">Rating</string>
+    <string name="duration">Duration</string>
+    <string name="language">Language</string>
+    <string name="description">Description</string>
+
+    <string-array name="data_title">
+        <item>Bohemian Raphsodi</item>
+        <item>T-34</item>
+        <item>Robin Hood</item>
+        <item>Aquaman</item>
+        <item>BumbleBee</item>
+        <item>Creed</item>
+        <item>Mortal Engines</item>
+        <item>Overlord</item>
+        <item>The Mule</item>
+        <item>Venom</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock \'n\' roll band Queen in 1970. Hit songs become instant classics. When Mercury\'s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.</item>
+        <item>1941 - WWii. the second lieutenant Nikolai ivushkin, commander of a t-34, engages in an unequal battle against the tank ace Klaus Jager in a battle near moscow. His mission is more of a suicide - to destroy a dozen german tanks, all by himself. that said, luck does favour the bold. He wins the battle, barely survives, but loses his tank and lands himself in captivity for three long years… there was little to no chance for ivushkin and Jager to meet again, but the war knows how to throw a curve ball.in the spring of 1944, the Wehrmacht commands Jager to take charge of the ohrdruf re range and turn it into a training center for elite german armored forces, using the latest t-34 as a running target. this is how Jager and ivushkin cross paths again. Jager o ers ivushkin to become the commander of a legendary tank and pick his crew from fellow camp prisoners. Nothing goes according to plan, though, when ivushkin uses exercises for a daring and carefully planned escape.</item>
+        <item>A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.</item>
+        <item>Once home to the most advanced civilization on Earth, the city of Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people — and then the surface world. Standing in his way is Aquaman, Orm\'s half-human, half-Atlantean brother and true heir to the throne. With help from royal counselor Vulko, Aquaman must retrieve the legendary Trident of Atlan and embrace his destiny as protector of the deep.</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.</item>
+        <item>Follows Adonis Creed\'s life inside and outside of the ring as he deals with new found fame, issues with his family, and his continuing quest to become a champion.</item>
+        <item>Set in a world many thousands of years in the future. Earth’s cities now roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive Traction Cities, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the Outlands who will change the course of his life forever.</item>
+        <item>France, World War II, June 1944. On the eve of D-Day, some American paratroopers fall behind enemy lines after their plane crashes during a mission consisting of destroying a German radio tower in Cielblanc, a small village near the beaches of Normandy. After reaching their target, the surviving paratroopers realize that, in addition to fighting Nazi troops that patrol the village, they also must fight against something else.</item>
+        <item>A 90 year old horticulturalist and Korean War veteran is caught transporting $3 million worth of cocaine through Illinois for a Mexican drug cartel.</item>
+        <item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/bohemian</item>
+        <item>@drawable/t34</item>
+        <item>@drawable/robinhood</item>
+        <item>@drawable/aquaman</item>
+        <item>@drawable/bumblebee</item>
+        <item>@drawable/creed</item>
+        <item>@drawable/mortalengines</item>
+        <item>@drawable/overlord</item>
+        <item>@drawable/themule</item>
+        <item>@drawable/venom</item>
+    </array>
+
+    <string-array name="data_rating">
+        <item>82%</item>
+        <item>47%</item>
+        <item>58%</item>
+        <item>68%</item>
+        <item>65%</item>
+        <item>67%</item>
+        <item>59%</item>
+        <item>69%</item>
+        <item>64%</item>
+        <item>66%</item>
+    </string-array>
+
+    <string-array name="data_duration">
+        <item>135</item>
+        <item>139</item>
+        <item>116</item>
+        <item>143</item>
+        <item>114</item>
+        <item>130</item>
+        <item>128</item>
+        <item>110</item>
+        <item>126</item>
+        <item>112</item>
+    </string-array>
+
+    <string-array name="data_language">
+        <item>EN</item>
+        <item>RS</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+        <item>EN</item>
+    </string-array>
+</resources>

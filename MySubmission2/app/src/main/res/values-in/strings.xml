@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MySubmission2</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="lorem">Movie Description</string>
+    <string name="playing">Sedang Tayang</string>
+    <string name="coming">Akan Datang</string>
+</resources>
